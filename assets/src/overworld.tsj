@@ -1,0 +1,14 @@
+{ "columns":62,
+ "image":"overworld.png",
+ "imageheight":864,
+ "imagewidth":992,
+ "margin":0,
+ "name":"overworld",
+ "spacing":0,
+ "tilecount":3348,
+ "tiledversion":"1.11.0",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":"1.10"
+}

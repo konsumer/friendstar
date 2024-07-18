@@ -1,0 +1,14 @@
+{ "columns":62,
+ "image":"dungeons.png",
+ "imageheight":480,
+ "imagewidth":1000,
+ "margin":0,
+ "name":"dungeons",
+ "spacing":0,
+ "tilecount":1860,
+ "tiledversion":"1.11.0",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":"1.10"
+}
