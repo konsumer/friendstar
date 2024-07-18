@@ -895,7 +895,9 @@
             "script": [
                 {
                     "command": "EVENT_MUSIC_STOP",
-                    "args": {},
+                    "args": {
+                        "__collapse": true
+                    },
                     "id": "647778b8-8c63-4dc0-944f-73632b1c36fc"
                 },
                 {
@@ -909,11 +911,11 @@
                                 "command": "EVENT_MENU",
                                 "args": {
                                     "variable": "L0",
-                                    "items": 3,
+                                    "items": 4,
                                     "option1": "Welcome",
-                                    "option2": "Outside",
-                                    "option3": "Cancel",
-                                    "option4": "",
+                                    "option2": "Over World",
+                                    "option3": "Something",
+                                    "option4": "Cancel",
                                     "option5": "",
                                     "option6": "",
                                     "option7": "",
@@ -921,9 +923,51 @@
                                     "cancelOnB": true,
                                     "layout": "dialogue",
                                     "cancelOnLastOption": true,
-                                    "__collapse": true
+                                    "__collapse": false
                                 },
                                 "id": "2b1dcc44-d0a6-4695-be88-682eadb23ea6"
+                            },
+                            {
+                                "command": "EVENT_IF",
+                                "args": {
+                                    "condition": {
+                                        "type": "eq",
+                                        "valueA": {
+                                            "type": "variable",
+                                            "value": "L0"
+                                        },
+                                        "valueB": {
+                                            "type": "number",
+                                            "value": 0
+                                        }
+                                    },
+                                    "__collapseElse": true,
+                                    "__collapse": true
+                                },
+                                "children": {
+                                    "true": [
+                                        {
+                                            "command": "EVENT_SWITCH_SCENE",
+                                            "args": {
+                                                "sceneId": "d3573e67-0f19-4df5-a5c8-45a42ffe7157",
+                                                "x": {
+                                                    "type": "number",
+                                                    "value": 18
+                                                },
+                                                "y": {
+                                                    "type": "number",
+                                                    "value": 0
+                                                },
+                                                "direction": "",
+                                                "fadeSpeed": "2",
+                                                "__collapse": true
+                                            },
+                                            "id": "60b4f87a-22d0-4334-9ea6-0e8b161643ce"
+                                        }
+                                    ],
+                                    "false": []
+                                },
+                                "id": "9a8634ca-237a-4093-9289-ffddff2eaee4"
                             },
                             {
                                 "command": "EVENT_IF",
@@ -978,7 +1022,7 @@
                                         {
                                             "command": "EVENT_MUSIC_PLAY",
                                             "args": {
-                                                "musicId": "490d5125-56e5-4cb7-bac0-892df865e24d",
+                                                "musicId": "1d5da454-6d9f-4b69-b1b0-cf344d399071",
                                                 "__collapse": true
                                             },
                                             "id": "5cb4b5b7-e7f5-412c-ae5b-96a94655afb5"
@@ -999,35 +1043,26 @@
                                         },
                                         "valueB": {
                                             "type": "number",
-                                            "value": 0
+                                            "value": 3
                                         }
                                     },
-                                    "__collapseElse": true
+                                    "__collapseElse": true,
+                                    "__collapse": true
                                 },
                                 "children": {
                                     "true": [
                                         {
-                                            "command": "EVENT_SWITCH_SCENE",
+                                            "command": "EVENT_MUSIC_PLAY",
                                             "args": {
-                                                "sceneId": "d3573e67-0f19-4df5-a5c8-45a42ffe7157",
-                                                "x": {
-                                                    "type": "number",
-                                                    "value": 0
-                                                },
-                                                "y": {
-                                                    "type": "number",
-                                                    "value": 0
-                                                },
-                                                "direction": "",
-                                                "fadeSpeed": "2",
+                                                "musicId": "490d5125-56e5-4cb7-bac0-892df865e24d",
                                                 "__collapse": true
                                             },
-                                            "id": "60b4f87a-22d0-4334-9ea6-0e8b161643ce"
+                                            "id": "a30c61b4-c4b0-4591-9562-ace46bf2cdac"
                                         }
                                     ],
                                     "false": []
                                 },
-                                "id": "9a8634ca-237a-4093-9289-ffddff2eaee4"
+                                "id": "0fc6e5c5-6ab2-4d4c-9f62-aea5efb581e6"
                             }
                         ]
                     },
@@ -1037,7 +1072,7 @@
             "playerHit1Script": [],
             "playerHit2Script": [],
             "playerHit3Script": [],
-            "autoFadeEventCollapse": false
+            "autoFadeEventCollapse": true
         },
         {
             "name": "Begin",
@@ -5172,7 +5207,7 @@
                 {
                     "command": "EVENT_MUSIC_PLAY",
                     "args": {
-                        "musicId": "490d5125-56e5-4cb7-bac0-892df865e24d"
+                        "musicId": "1d5da454-6d9f-4b69-b1b0-cf344d399071"
                     },
                     "id": "c0bbd104-51b2-4774-bd4f-742d92993b36"
                 }
@@ -9308,28 +9343,6 @@
             "autoColor": true
         },
         {
-            "id": "328ac5ad-38a8-44e1-bcb8-79001482e188",
-            "name": "source/dungeons",
-            "symbol": "bg_source_dungeons",
-            "width": 125,
-            "height": 60,
-            "imageWidth": 1000,
-            "imageHeight": 480,
-            "filename": "source/dungeons.png",
-            "tileColors": []
-        },
-        {
-            "id": "e6177f0f-69e4-4006-a239-1837a24fd345",
-            "name": "source/overworld",
-            "symbol": "bg_source_overworld",
-            "width": 124,
-            "height": 108,
-            "imageWidth": 992,
-            "imageHeight": 864,
-            "filename": "source/overworld.png",
-            "tileColors": []
-        },
-        {
             "id": "d4ed1ef1-b753-42c5-b5c6-36f5218723f8",
             "name": "welcome",
             "symbol": "bg_welcome",
@@ -10201,10 +10214,18 @@
     "customEvents": [],
     "music": [
         {
+            "id": "1d5da454-6d9f-4b69-b1b0-cf344d399071",
+            "name": "overworld",
+            "symbol": "song_runing_n_stuf",
+            "filename": "overworld.uge",
+            "settings": {},
+            "type": "uge"
+        },
+        {
             "id": "490d5125-56e5-4cb7-bac0-892df865e24d",
-            "name": "outside",
+            "name": "something",
             "symbol": "song_outside",
-            "filename": "outside.uge",
+            "filename": "something.uge",
             "settings": {},
             "type": "uge"
         },
@@ -10313,7 +10334,7 @@
     ],
     "settings": {
         "startSceneId": "d3573e67-0f19-4df5-a5c8-45a42ffe7157",
-        "startX": 18,
+        "startX": 19,
         "startY": 17,
         "startMoveSpeed": 1,
         "startAnimSpeed": 15,
@@ -10322,8 +10343,8 @@
         "showConnections": true,
         "showCollisionSlopeTiles": false,
         "showCollisionExtraTiles": false,
-        "worldScrollX": 2843,
-        "worldScrollY": 763,
+        "worldScrollX": 1111,
+        "worldScrollY": 342,
         "zoom": 400,
         "sgbEnabled": false,
         "customHead": "",
