@@ -1,0 +1,29 @@
+## friends
+
+- David - freebie
+- Sandra
+- Simon
+- Bella
+- Oreo
+- Inky - find synth in hole (and door requires >0 friend)
+- Alijah
+- Riley
+- Angel
+- Danny - >5 friends
+- Mason
+- Bobby
+- Charlie
+- James - Fight turnip
+- Mike
+- Tim
+- Emily
+- Kristin
+- Josh
+- Sara
+- Wade
+- Liz
+- Steve
+- Laura
+- Nicole
+- Anne
+- Donna
