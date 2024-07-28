@@ -15,6 +15,12 @@
 - better fighting, it's just a demo now, add smack-talk and maybe weapons & run?
 - seperate flags: met/found/friends1/friends2
 - enemy should set it's own variable (not shared)
+- use [emulatorjs](https://emulatorjs.org/) for player
+- get [CLI](https://github.com/chrismaltby/gb-studio?tab=readme-ov-file#cli-examples) in CI for automatic rom-builds (in docs/)
+
+# MUSIC
+
+- more! need songs for each village/area
 - better "village music", make it go with the theme
 - improve "A Forest" song
 
