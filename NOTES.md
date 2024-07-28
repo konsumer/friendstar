@@ -10,18 +10,34 @@
 - saves on each scene-change?
 - fix forest flag (shows message after initial, sometimes)
 - add more flags: met/quest/inventory to split the gates between multiple flags
-- better "village music", make it go with the gods
-- fix village church color/tiles, maybe outside of village?
-- check all dialogs fior fitting
+- fix village church color/tiles, maybe put on seperate screen outside of village?
+- check all dialogs for fitting text on window properly
 - better fighting, it's just a demo now, add smack-talk and maybe weapons & run?
+- seperate flags: met/found/friends1/friends2
+- enemy should set it's own variable (not shared)
+- better "village music", make it go with the theme
+- improve "A Forest" song
+
+On linux, in dev, run like this to prevent crashing (see [#1102](https://github.com/chrismaltby/gb-studio/issues/1102)):
+
+```
+gb-studio --disable-seccomp-filter-sandbox ~/Documents/friendstar/Friendstar.gbsproj
+```
 
 
+
+<details>
+  <summary>Spoiler warning</summary>
+ 
 # GODS
 
 - fire - desert
 - water - snowy
 - earth - forest
 - wind - holy
+
+- Each god will give you differnt conversations in churches.
+- If you get a god for a village all doors are open
 
 # ENDGAME
 
@@ -50,6 +66,8 @@ Must have all the gods (every friend in game) and they will battle some big enem
 - Get lost synth (well)
 - Friend them to get a new village music track?
 - 1 friend to open door.
+- BUG: get synth first, then meet, it deletes
+- BUG: synth should show in house after you talk to Inky (as an indicator you completed quest)
 
 
 ## Alijah
@@ -58,11 +76,17 @@ Must have all the gods (every friend in game) and they will battle some big enem
 
 ## Angel
 
+- Missing kid
+- 3 friends to open door
+- kid should be in house to indicate quest is completed
+- BUG: her door doesn't open at same time as James (it should)
+
 ## Danny
 
 - Lives in Forest Village.
-- 5 friends to friend her. 
-- 3 friends to open door
+- 5 friends to friend her.
+- Computer should show as indicator that you are friends, use it to save
+
 
 ## Mason
 
@@ -76,6 +100,8 @@ Must have all the gods (every friend in game) and they will battle some big enem
 - Must fight turnip in hole, in forest
 - better fighting would maybe be better (inventory, stats, etc) but I also like the simple "anyone can fight, just don't give up" approach
 - 2 friends to open door
+- BUG: if you kill turnip first, he doesn't get it
+- BUG: turnip should show in house after you talk to Inky (as an indicator you completed quest)
 
 ## Mike
 
@@ -102,4 +128,16 @@ Must have all the gods (every friend in game) and they will battle some big enem
 ## Anne
 
 ## Donna
+
+
+
+# WALKTHROUGH
+
+- start in forest
+- friend David ion Forest Village
+- get Inky's synth, talk to them to friend
+- talk to James, fight turnip, talk to James
+- talk to Angel, talk to batman-kid in forest ("I am the night!"), talk to Angel
+  
+</details>
 
