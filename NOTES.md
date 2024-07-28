@@ -137,7 +137,7 @@ Must have all the gods (every friend in game) and they will battle some big enem
 - friend David ion Forest Village
 - get Inky's synth, talk to them to friend
 - talk to James, fight turnip, talk to James
-- talk to Angel, talk to batman-kid in forest ("I am the night!"), talk to Angel
+- talk to Angel, talk to batman-kid in forest ("I am the night!"), convince him to go with you ("there is a crime happening in village...") talk to Angel
   
 </details>
 
