@@ -4,32 +4,9 @@
 - every village has a church (for the god)
 - "secret" God friends (don't show in START) that you get when you befriend all people in a village
 
-# ISSUES
-
-- fix initial menu to allow continue/new
-- saves on each scene-change?
-- fix forest flag (shows message after initial, sometimes)
-- add more flags: met/quest/inventory to split the gates between multiple flags
-- fix village church color/tiles, maybe put on seperate screen outside of village?
-- check all dialogs for fitting text on window properly
-- better fighting, it's just a demo now, add smack-talk and maybe weapons & run?
-- seperate flags: met/found/friends1/friends2
-- enemy should set it's own variable (not shared)
-- use [emulatorjs](https://emulatorjs.org/) for player
-- get [CLI](https://github.com/chrismaltby/gb-studio?tab=readme-ov-file#cli-examples) in CI for automatic rom-builds (in docs/)
-
-# MUSIC
-
-- more! need songs for each village/area
-- better "village music", make it go with the theme
-- improve "A Forest" song
-
-On linux, in dev, run like this to prevent crashing (see [#1102](https://github.com/chrismaltby/gb-studio/issues/1102)):
-
 ```
 gb-studio --disable-seccomp-filter-sandbox ~/Documents/friendstar/Friendstar.gbsproj
 ```
-
 
 
 <details>
