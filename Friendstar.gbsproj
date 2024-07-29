@@ -573,11 +573,11 @@
                                                             "sceneId": "72808a54-0e14-466f-a731-74e9cb69fbc6",
                                                             "x": {
                                                                 "type": "number",
-                                                                "value": 9
+                                                                "value": 8
                                                             },
                                                             "y": {
                                                                 "type": "number",
-                                                                "value": 7
+                                                                "value": 9
                                                             },
                                                             "direction": "",
                                                             "fadeSpeed": "2",
@@ -685,11 +685,11 @@
                                                             "sceneId": "72808a54-0e14-466f-a731-74e9cb69fbc6",
                                                             "x": {
                                                                 "type": "number",
-                                                                "value": 9
+                                                                "value": 8
                                                             },
                                                             "y": {
                                                                 "type": "number",
-                                                                "value": 7
+                                                                "value": 10
                                                             },
                                                             "direction": "",
                                                             "fadeSpeed": "2",
@@ -718,7 +718,7 @@
         },
         {
             "name": "Music",
-            "backgroundId": "472551a8-93b4-4888-8a4e-2afbf3dca465",
+            "backgroundId": "f349bc18-e31e-4ab2-90b5-49d2a69b430e",
             "tilesetId": "",
             "width": 20,
             "height": 18,
@@ -1114,16 +1114,16 @@
                                 "args": {
                                     "variable": "L0",
                                     "items": 4,
-                                    "option1": "Cool Pup",
-                                    "option2": "Runing N' Stuff",
+                                    "option1": "CoolPup",
+                                    "option2": "Runing",
                                     "option3": "Welcome",
-                                    "option4": "A Forest",
+                                    "option4": "Forest",
                                     "option5": "Cancel",
                                     "option6": "",
                                     "option7": "",
                                     "option8": "",
                                     "cancelOnB": true,
-                                    "layout": "dialogue",
+                                    "layout": "menu",
                                     "cancelOnLastOption": false,
                                     "__collapse": false
                                 },
@@ -33864,6 +33864,16 @@
             "autoColor": true
         },
         {
+            "id": "f349bc18-e31e-4ab2-90b5-49d2a69b430e",
+            "name": "music_screen",
+            "symbol": "bg_music_screen",
+            "width": 20,
+            "height": 18,
+            "imageWidth": 160,
+            "imageHeight": 144,
+            "filename": "music_screen.png"
+        },
+        {
             "id": "74ff8e65-49c1-4c76-8a23-53784cb4b3c3",
             "name": "oublietteE",
             "symbol": "bg_oubliettee",
@@ -42709,8 +42719,8 @@
         "showConnections": true,
         "showCollisionSlopeTiles": false,
         "showCollisionExtraTiles": false,
-        "worldScrollX": 1402,
-        "worldScrollY": 54,
+        "worldScrollX": 140,
+        "worldScrollY": 743,
         "zoom": 131,
         "sgbEnabled": false,
         "customHead": "",
