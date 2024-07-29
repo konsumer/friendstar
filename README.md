@@ -2,10 +2,12 @@
 
 Gameboy Color/DMG game about social-networking for [Retro Platform Jam #7](https://itch.io/jam/retro-platform-jam-7).
 
+## assets
+
 All the asset-source is [here](assets/src). I use [Gimp](https://www.gimp.org/) and [Tiled](https://www.mapeditor.org/) to make sprites & maps, and [GB Studio](https://www.gbstudio.dev/) for everything else.
 
 
-## credits
+### credits
 
 - [the pixel nook](https://the-pixel-nook.itch.io) makes a bunch of great GB Studio assets.
 - [this cool 711 set](https://reakain.itch.io/gb-studio-7-11-tileset)
