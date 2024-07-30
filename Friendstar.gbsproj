@@ -20997,7 +20997,7 @@
                 {
                     "command": "EVENT_MUSIC_PLAY",
                     "args": {
-                        "musicId": "c7115c04-702b-4c45-8858-86a6cc43f98d"
+                        "musicId": "3cb5970d-75a7-4050-a913-f839bf7db06e"
                     },
                     "id": "991be92c-1e19-4ef8-8d56-4a5641e86fe7"
                 }
@@ -42760,7 +42760,7 @@
         "showCollisionSlopeTiles": false,
         "showCollisionExtraTiles": false,
         "worldScrollX": 140,
-        "worldScrollY": 743,
+        "worldScrollY": 54,
         "zoom": 131,
         "sgbEnabled": false,
         "customHead": "",
