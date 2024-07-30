@@ -1113,12 +1113,12 @@
                                 "command": "EVENT_MENU",
                                 "args": {
                                     "variable": "L0",
-                                    "items": 4,
+                                    "items": 5,
                                     "option1": "CoolPup",
                                     "option2": "Runing",
                                     "option3": "Welcome",
                                     "option4": "Forest",
-                                    "option5": "Cancel",
+                                    "option5": "Brow",
                                     "option6": "",
                                     "option7": "",
                                     "option8": "",
@@ -1297,6 +1297,36 @@
                                     "false": []
                                 },
                                 "id": "1f1cd52b-5feb-4ef0-a351-3e639952174f"
+                            },
+                            {
+                                "command": "EVENT_IF",
+                                "args": {
+                                    "condition": {
+                                        "type": "eq",
+                                        "valueA": {
+                                            "type": "variable",
+                                            "value": "L0"
+                                        },
+                                        "valueB": {
+                                            "type": "number",
+                                            "value": 5
+                                        }
+                                    },
+                                    "__collapseElse": true
+                                },
+                                "children": {
+                                    "true": [
+                                        {
+                                            "command": "EVENT_MUSIC_PLAY",
+                                            "args": {
+                                                "musicId": "3cb5970d-75a7-4050-a913-f839bf7db06e"
+                                            },
+                                            "id": "6865e901-b645-4cd3-8f8a-b76b6f729de2"
+                                        }
+                                    ],
+                                    "false": []
+                                },
+                                "id": "99e39606-d757-4864-8945-3617de5ad301"
                             }
                         ]
                     },
@@ -33871,7 +33901,9 @@
             "height": 18,
             "imageWidth": 160,
             "imageHeight": 144,
-            "filename": "music_screen.png"
+            "filename": "music_screen.png",
+            "tileColors": [],
+            "autoColor": false
         },
         {
             "id": "74ff8e65-49c1-4c76-8a23-53784cb4b3c3",
@@ -42493,6 +42525,14 @@
             "name": "a_forest",
             "symbol": "song_a_forest",
             "filename": "a_forest.uge",
+            "settings": {},
+            "type": "uge"
+        },
+        {
+            "id": "3cb5970d-75a7-4050-a913-f839bf7db06e",
+            "name": "brow",
+            "symbol": "song_brow",
+            "filename": "brow.uge",
             "settings": {},
             "type": "uge"
         },
