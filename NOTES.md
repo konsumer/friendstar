@@ -40,6 +40,62 @@ Must have all the gods (every friend in game) and they will battle some big enem
 ## Simon
 
 ## Bella
+Walk into bjb s house, normal room, but in the desert
+
+Horse (doesn t have to be a horse necesaroly, could just be its name), is there 
+Says “put the money in the bag”
+belle: “but i dont have money”
+Horse says
+“Give me something”
+Horse notices player and says “oh no its that british detective guy”
+You say “huh? No im not some british detective guy”
+Horse says “then wh y should i be worried about you, you cant even beat me in a rap battle. Or can you?”
+
+You say “i  can, lets start right now”
+(maybe you could also have the option of saying “your right i cant rap  ill leave you two alone” and the encounter never starts”
+Begins rap, rap song starts
+
+“My name is konsumer and im pretty”
+
+Choice emerges:
+
+“Awesome”
+
+“Lame”
+
+“You look like a hoofed”
+
+“Possom”
+
+“Really cool guy”
+
+“I am a flower that always”
+
+“Blossoms”
+“Smells bad”
+
+“You smell like someones”
+
+“Bottom”
+“Scented candles”
+
+Horse says “now its my turn” horse:
+
+“Im the horse and i get paid, in spite of that im robbing this bank”
+
+“I could buy an entire fish tank”
+
+“You look very victim to pranks”
+
+“And your bars are very tame”
+ Sherlock holmes busts in
+
+sherlock:
+“Oi! Its me sherlock holmes. You must be the robbah, you were making such a racket over here i could here you from a moil away”
+
+Horse robber “darn you”
+
+Belle “thank you so much, you are now a friend”
 
 ## Oreo
 
