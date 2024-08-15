@@ -4,10 +4,10 @@
  "layers":[
         {
          "compression":"zlib",
-         "data":"eJztVdEOgCAIbKNf7ev0w4ivqDZvKRVaWuvBhxssC45DaBqHYero6OgIcLRjXsHB36yQ\/R38+D0852B9JoYzzktgxb8686pWURo4OupylcPSqER7iz841vbY4sgVOSxdSvpzR6fYZ6VbCQ9LF9SPOLFeLfTXXPVsPb1DQil3UbF9g\/nK8ZsrcwjtPGPLmbm7g7MeMqX6\/Rk1O+ZLjuif\/o+06uPb\/FED7gX2TIsd9gcs9XhiDA==",
+         "data":"eJztwwEJAAAMA6A1eH9Y2AW5gr2kqqrqiwOVlgEf",
          "encoding":"base64",
          "height":16,
-         "id":2,
+         "id":5,
          "name":"ground",
          "opacity":1,
          "type":"tilelayer",
@@ -18,11 +18,11 @@
         }, 
         {
          "compression":"zlib",
-         "data":"eJztxaENAAAIA7Al\/H8Bz6KRSJLWNAEAuOvaAz8Mo1YBPQ==",
+         "data":"eJztz8cJwDAQBVEVsc054YQTTjjh1Lzn4psKkGAH3mVPfwMxJkSEGAl8KmVvhhwFSgQe\/VSxrUaDFp3Yf3K1nm0DRkyYxf6Tqy1sW7FhxyH2m6udbLtw48Er9pumaZqmadrfB4DwGwQ=",
          "encoding":"base64",
          "height":16,
-         "id":4,
-         "name":"over ground",
+         "id":6,
+         "name":"overground",
          "opacity":1,
          "type":"tilelayer",
          "visible":true,
@@ -32,25 +32,11 @@
         }, 
         {
          "compression":"zlib",
-         "data":"eJztleuKwjAQRpO8h+6qqA8l+8srqG+0Iou7gtbLM3nDy+o7eEIrpKktBStW6AeHTJP5ypSGGSHeXxOYggN1KUQDmjJ49q2EGMBQhXs+OStASQX9Ofby8AEtctvQkX7\/jLw5LGCp\/eyVya9AFVbgSH\/9e\/iHI\/xw9gcjGTyrKTf+Um6s83RsesycKP+v5xlLv\/8k3PjMetF+\/X3kN6AJB56PVv2ZMj2iMvepAtUE79Wad21g561bL36G7J6ThMw+pNei0ZPuqQu9mPQtr91zktCt75yN9RKR\/0j9adBtTsTBeVGNUery73sx6aew\/9tzdirDsedvGnRvzoaRzd9MSekKj8totw==",
+         "data":"eJztjzkKgEAQBAf8gn\/wWV54hd7X5y1T2WAj2YUuqGAGBmrM\/MhTswJLrLBOPQ8DoaG3xQ57HCLrH+mdcMYFV9wi+iGW\/ixx7139IfDtfWfXbqf3wBMvvAPpF0IIIcT\/PPuZEUE=",
          "encoding":"base64",
          "height":16,
-         "id":3,
-         "name":"houses",
-         "opacity":1,
-         "type":"tilelayer",
-         "visible":true,
-         "width":48,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "compression":"zlib",
-         "data":"eJz7yMzA8ICVgeEhED8C4sdA\/ASIn7IOfvEPQLfrszDgBDl45IgBeRTqJ2S2HhB\/ZsatJoWVMjso1Y8P5ALd\/gnodkMahhGtgQHQ7V\/xhP9gB1+AbjcewuFvBHT7xyEc\/tjKn19DKD6wlT9NQLFmCv3ggEc\/Pjl0cAnotstAfAVHGsFW\/hwA8g9S6H5ccQgSJ8X9AkC1gkAshEMPtvKnDihWT4U0hM0PpLidGICt\/NkD5O8dBHngIRN+GgSGY\/kzWAAx5SCh9s9gB7DyZxGwnbUYiJcA8VIgXgbEy1lJFycWUMs+UPkDAKr+aAo=",
-         "encoding":"base64",
-         "height":16,
-         "id":1,
-         "name":"trees",
+         "id":7,
+         "name":"rock",
          "opacity":1,
          "type":"tilelayer",
          "visible":true,
@@ -58,7 +44,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":5,
+ "nextlayerid":8,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
@@ -68,6 +54,27 @@
         {
          "firstgid":1,
          "source":"overworld.tsj"
+        }, 
+        {
+         "firstgid":3349,
+         "source":"dungeons.tsj"
+        }, 
+        {
+         "firstgid":5209,
+         "source":"pixelnook\/OptimizedBuildings\/Bank.tsj"
+        }, 
+        {
+         "columns":6,
+         "firstgid":5245,
+         "image":"pixelnook\/OptimizedBuildings\/Store_Final.png",
+         "imageheight":88,
+         "imagewidth":96,
+         "margin":0,
+         "name":"Store_Final",
+         "spacing":0,
+         "tilecount":30,
+         "tileheight":16,
+         "tilewidth":16
         }],
  "tilewidth":16,
  "type":"map",
