@@ -39,63 +39,10 @@ Must have all the gods (every friend in game) and they will battle some big enem
 
 ## Simon
 
-## Bella
-Walk into bjb s house, normal room, but in the desert
+## Belle
 
-Horse (doesn t have to be a horse necesaroly, could just be its name), is there 
-Says “put the money in the bag”
-belle: “but i dont have money”
-Horse says
-“Give me something”
-Horse notices player and says “oh no its that british detective guy”
-You say “huh? No im not some british detective guy”
-Horse says “then wh y should i be worried about you, you cant even beat me in a rap battle. Or can you?”
-
-You say “i  can, lets start right now”
-(maybe you could also have the option of saying “your right i cant rap  ill leave you two alone” and the encounter never starts”
-Begins rap, rap song starts
-
-“My name is konsumer and im pretty”
-
-Choice emerges:
-
-“Awesome”
-
-“Lame”
-
-“You look like a hoofed”
-
-“Possom”
-
-“Really cool guy”
-
-“I am a flower that always”
-
-“Blossoms”
-“Smells bad”
-
-“You smell like someones”
-
-“Bottom”
-“Scented candles”
-
-Horse says “now its my turn” horse:
-
-“Im the horse and i get paid, in spite of that im robbing this bank”
-
-“I could buy an entire fish tank”
-
-“You look very victim to pranks”
-
-“And your bars are very tame”
- Sherlock holmes busts in
-
-sherlock:
-“Oi! Its me sherlock holmes. You must be the robbah, you were making such a racket over here i could here you from a moil away”
-
-Horse robber “darn you”
-
-Belle “thank you so much, you are now a friend”
+- Lives in Desert Village
+- Must beat Horse in a rap-battle
 
 ## Oreo
 
@@ -105,8 +52,6 @@ Belle “thank you so much, you are now a friend”
 - Get lost synth (well)
 - Friend them to get a new village music track?
 - 1 friend to open door.
-- BUG: get synth first, then meet, it deletes
-- BUG: synth should show in house after you talk to Inky (as an indicator you completed quest)
 
 
 ## Alijah
@@ -115,10 +60,10 @@ Belle “thank you so much, you are now a friend”
 
 ## Angel
 
+- Lives in Forest Village.
 - Missing kid
 - 3 friends to open door
 - kid should be in house to indicate quest is completed
-- BUG: her door doesn't open at same time as James (it should)
 
 ## Danny
 
@@ -135,12 +80,11 @@ Belle “thank you so much, you are now a friend”
 
 ## James
 
+- Lives in Forest Village.
 - Wants a turnip for dinner.
 - Must fight turnip in hole, in forest
 - better fighting would maybe be better (inventory, stats, etc) but I also like the simple "anyone can fight, just don't give up" approach
 - 2 friends to open door
-- BUG: if you kill turnip first, he doesn't get it
-- BUG: turnip should show in house after you talk to Inky (as an indicator you completed quest)
 
 ## Mike
 
@@ -176,7 +120,7 @@ Belle “thank you so much, you are now a friend”
 - friend David ion Forest Village
 - get Inky's synth, talk to them to friend
 - talk to James, fight turnip, talk to James
-- talk to Angel, talk to batman-kid in forest ("I am the night!"), convince him to go with you ("there is a crime happening in village...") talk to Angel
+- talk to Angel, talk to batman-kid in forest ("I am the night!"), convince him to go with you (you are looking for villains, you are a sidekick) talk to Angel, again
   
 </details>
 
