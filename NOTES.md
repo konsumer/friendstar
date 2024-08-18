@@ -20,7 +20,6 @@ gb-studio --disable-seccomp-filter-sandbox ~/Documents/friendstar/Friendstar.gbs
 - wind - holy
 
 - Each god will give you differnt conversations in churches.
-- If you get a god for a village all doors are open
 
 # ENDGAME
 
@@ -29,89 +28,90 @@ Must have all the gods (every friend in game) and they will battle some big enem
 
 # FRIENDS
 
-## David
+## Forest
 
-- Lives in Forest Village.
+### David
+
 - No quest, just talk to them.
 
+### Inky
 
-## Sandra
-
-## Simon
-
-## Belle
-
-- Lives in Desert Village
-- Must beat Horse in a rap-battle
-
-## Oreo
-
-## Inky
-
-- Lives in Forest Village.
 - Get lost synth (well)
 - Friend them to get a new village music track?
 - 1 friend to open door.
 
+### Angel
 
-## Alijah
-
-## Riley
-
-## Angel
-
-- Lives in Forest Village.
 - Missing kid
 - 3 friends to open door
 - kid should be in house to indicate quest is completed
 
-## Danny
+### James
 
-- Lives in Forest Village.
-- 5 friends to friend her.
-- Computer should show as indicator that you are friends, use it to save
-
-
-## Mason
-
-## Bobby
-
-## Charlie
-
-## James
-
-- Lives in Forest Village.
 - Wants a turnip for dinner.
 - Must fight turnip in hole, in forest
 - better fighting would maybe be better (inventory, stats, etc) but I also like the simple "anyone can fight, just don't give up" approach
 - 2 friends to open door
 
-## Mike
+### Danny
 
-## Tim
+- 5 friends to friend her.
+- Computer should show as indicator that you are friends, use it to save
 
-## Emily
 
-## Kristin
+## Desert
 
-## Josh
+### Belle
 
-## Sara
+- Must beat Horse in a rap-battle
 
-## Wade
+### Josh
 
-## Liz
+- Get the bike part
+- 6 friends to open door
 
-## Steve
 
-## Laura
+### Sandra
 
-## Nicole
+### Simon
 
-## Anne
+### Oreo
 
-## Donna
+### Alijah
 
+### Riley
+
+### Mason
+
+### Bobby
+
+### Charlie
+
+### Mike
+
+### Tim
+
+### Emily
+
+### Kristin
+
+### Sara
+
+### Wade
+
+### Liz
+
+### Knute
+
+### Steve
+
+### Laura
+
+### Nicole
+
+### Anne
+
+### Donna
 
 
 # WALKTHROUGH
