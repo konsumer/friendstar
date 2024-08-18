@@ -67,7 +67,7 @@
          "name":"furniture 1",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":10,
          "x":0,
          "y":0
@@ -127,8 +127,22 @@
          "width":10,
          "x":0,
          "y":0
+        }, 
+        {
+         "compression":"zlib",
+         "data":"eJxjYIAAZRYGDIBNbBSQBwBplABP",
+         "encoding":"base64",
+         "height":9,
+         "id":12,
+         "name":"church",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":10,
+         "x":0,
+         "y":0
         }],
- "nextlayerid":12,
+ "nextlayerid":13,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
