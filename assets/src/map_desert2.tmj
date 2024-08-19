@@ -4,7 +4,7 @@
  "layers":[
         {
          "compression":"zlib",
-         "data":"eJwLYGRgEKUSDgDiQCAuZaIO9h81b9S8UfNGzRs1j2rmgcpoISphkFkASqemJw==",
+         "data":"eJwTZGRgEKUSFgZifyAuZaIODhw1b9S8UfNGzRs1j6rmCVEJg8wDAEqapas=",
          "encoding":"base64",
          "height":20,
          "id":1,
@@ -15,8 +15,22 @@
          "width":20,
          "x":0,
          "y":0
+        }, 
+        {
+         "compression":"zlib",
+         "data":"eJxjYICAUAYqAkY0TI5eapgHVJvAxsCQyIbHTBLdNg9o1nx08\/DZQ4SZ2NyG1R5KADn+HQX0BdSMI0rSJA7z8KZJMvMnTvWE3E+tvIvsDnLzLhbzvpBrJin2DAIAAO6oCdc=",
+         "encoding":"base64",
+         "height":20,
+         "id":2,
+         "name":"Tile Layer 2",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":20,
+         "x":0,
+         "y":0
         }],
- "nextlayerid":2,
+ "nextlayerid":3,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",

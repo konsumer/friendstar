@@ -56,7 +56,6 @@ Must have all the gods (every friend in game) and they will battle some big enem
 ### Danny
 
 - 5 friends to friend her.
-- Computer should show as indicator that you are friends, use it to save
 
 
 ## Desert
@@ -67,7 +66,7 @@ Must have all the gods (every friend in game) and they will battle some big enem
 
 ### Josh
 
-- Get the bike part
+- Get the bike part (SW desert, go down hole, solve maze, NE of other area, grab skull)
 - 6 friends to open door
 
 
