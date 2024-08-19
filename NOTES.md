@@ -46,7 +46,7 @@ Must have all the gods (every friend in game) and they will battle some big enem
 - 3 friends to open door
 - kid should be in house to indicate quest is completed
 
-### James
+### Kristin
 
 - Wants a turnip for dinner.
 - Must fight turnip in hole, in forest
@@ -92,7 +92,7 @@ Must have all the gods (every friend in game) and they will battle some big enem
 
 ### Emily
 
-### Kristin
+### James
 
 ### Sara
 
@@ -116,10 +116,12 @@ Must have all the gods (every friend in game) and they will battle some big enem
 # WALKTHROUGH
 
 - start in forest
-- friend David ion Forest Village
-- get Inky's synth, talk to them to friend
-- talk to James, fight turnip, talk to James
+- friend David in Forest Village
+- get Inky's synth (SE forest) talk to them to friend
+- talk to Kristin, fight turnip (NW forest) talk to Kristin
 - talk to Angel, talk to batman-kid in forest ("I am the night!"), convince him to go with you (you are looking for villains, you are a sidekick) talk to Angel, again
+- go to desert village, rap battle Horse for Belle
+- talk to Josh nextdoor. Go to desert, and down hole in SW, complete maze (see grass pattern) get skull in NE of new desert area
   
 </details>
 
