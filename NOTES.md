@@ -69,8 +69,16 @@ Must have all the gods (every friend in game) and they will battle some big enem
 - Get the bike part (SW desert, go down hole, solve maze, NE of other area, grab skull)
 - 6 friends to open door
 
-
 ### Sandra
+
+- Get the flower (same area where Josh's bike part is)
+- 6 friends to open door
+
+### Donna
+
+- No quest, just talk to them.
+- 8 friends to open door
+
 
 ### Simon
 
@@ -110,7 +118,7 @@ Must have all the gods (every friend in game) and they will battle some big enem
 
 ### Anne
 
-### Donna
+
 
 
 # WALKTHROUGH
@@ -123,6 +131,9 @@ Must have all the gods (every friend in game) and they will battle some big enem
 - go to desert village, rap battle Horse for Belle
 - go back to forest village and friend Danny
 - talk to Josh in desert village. Go to desert, and down hole in SW, complete maze (see grass pattern) get skull in NE of new desert area
+- While you are there grab flower
+- Go back and talk to Sandra
+
   
 </details>
 

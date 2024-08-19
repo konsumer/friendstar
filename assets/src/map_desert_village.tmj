@@ -18,7 +18,7 @@
         }, 
         {
          "compression":"zlib",
-         "data":"eJwLZ2BgiADiS8wMDJeB+AozhE8PHAnEM4C4F4gFWBgYBIFYiAXCpybGBkDi05HspxaQ5MXPp7X9xIKhYL8\/Dkwv+wm5aSDspxZAt5+WGJvdMPuvAfFERtrgSYy4w3YCUO4qkAYA2JpKOQ==",
+         "data":"eJwLZ2BgiADiS8wMDJeB+AozhE8sDmUlTT0yjgTiGQwQIMDCwCAIxEIsDHDQSwSezIrKR9eHC4DkpiPZTy64yEqePmrZTy4YTPbnMzIwFCDhQkaIGn8cmNr2rwXap8nEwKAFxNpAvJ4Rtz5quQPZ\/tdA+9KB9mYAcSYQv8VjP7UAMfFPTP4jBuMyF2T\/NSCeyEgbPIkRdxkwASh3FUgDAKDgSKI=",
          "encoding":"base64",
          "height":10,
          "id":10,
@@ -32,7 +32,7 @@
         }, 
         {
          "compression":"zlib",
-         "data":"eJxjYICA2fwMDHOAeC4\/A8Ugn5GBoQCICxkRfC5mBgZuZtx6bgLtvQXEt6lg\/1qgfU+ZGBjWMyL46xghfEle7HrEBRgYJIBYUoBy+18D7VkKxG8ZsfNHwSgYBYMDAAAxFRCL",
+         "data":"eJxjYICA2fwMDHOAeC4\/AxzkMzIwFABxISNuNro6XHwuZgYGbmYGnOAm0N5bQHwbyf61QH3rgHg9I242ujoY\/ykTbnlsQFyAgUECiCUFEGKvgeqXAvFbRgh7OROCDROHqYPJoevDxh8Fo2AUDA4AAGoeJ+s=",
          "encoding":"base64",
          "height":10,
          "id":12,
@@ -82,7 +82,7 @@
          "margin":0,
          "name":"Store_Final",
          "spacing":0,
-         "tilecount":30,
+         "tilecount":0,
          "tileheight":16,
          "tilewidth":16
         }],
