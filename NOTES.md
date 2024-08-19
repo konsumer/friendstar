@@ -121,7 +121,8 @@ Must have all the gods (every friend in game) and they will battle some big enem
 - talk to Kristin, fight turnip (NW forest) talk to Kristin
 - talk to Angel, talk to batman-kid in forest ("I am the night!"), convince him to go with you (you are looking for villains, you are a sidekick) talk to Angel, again
 - go to desert village, rap battle Horse for Belle
-- talk to Josh nextdoor. Go to desert, and down hole in SW, complete maze (see grass pattern) get skull in NE of new desert area
+- go back to forest village and friend Danny
+- talk to Josh in desert village. Go to desert, and down hole in SW, complete maze (see grass pattern) get skull in NE of new desert area
   
 </details>
 
