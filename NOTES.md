@@ -37,25 +37,37 @@ Must have all the gods (every friend in game) and they will battle some big enem
 ### Tim
 
 - Get lost synth (well)
-- Friend them to get a new village music track?
 - 1 friend to open door.
 
 ### Angel
 
 - Missing kid
 - 3 friends to open door
-- kid should be in house to indicate quest is completed
 
 ### Kristin
 
 - Wants a turnip for dinner.
 - Must fight turnip in hole, in forest
-- better fighting would maybe be better (inventory, stats, etc) but I also like the simple "anyone can fight, just don't give up" approach
 - 2 friends to open door
 
 ### Danny
 
 - 5 friends to friend her.
+
+### Nicole
+
+- in hole in forest
+- 15 friends to unblock hole
+
+### Liz
+
+- in hole in forest
+- 15 friends to unblock hole
+
+### Emily
+
+- in hole in forest
+- 15 friends to unblock hole
 
 
 ## Desert
@@ -95,6 +107,11 @@ Must have all the gods (every friend in game) and they will battle some big enem
 - answer phone & buy some vermine urine.
 - 8 friends to open door
 
+### Knute
+
+- Go down hole in desert
+- 10 friends to unblock hole
+
 
 ## Holy
 
@@ -106,11 +123,7 @@ Must have all the gods (every friend in game) and they will battle some big enem
 
 ### Inky
 
-### Nicole
 
-### Liz
-
-### Emily
 
 
 ## Snow
@@ -124,8 +137,6 @@ Must have all the gods (every friend in game) and they will battle some big enem
 ### Bobby
 
 ### Charlie
-
-### Knute
 
 ### Steve
 
