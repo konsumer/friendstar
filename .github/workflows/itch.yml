@@ -1,0 +1,27 @@
+on:
+  push:
+    paths:
+      - 'docs/**'
+      - '.github/workflows/**'
+
+env:
+  ITCH_USERNAME: davidkonsumer
+  ITCH_GAME_ID: friendstar
+
+jobs:
+  deploy:
+    name: Upload to Itch
+    runs-on: ubuntu-latest
+    name: Deploy - Itch.io
+    steps:
+      - uses: actions/download-artifact@v2.0.8
+        with:
+          name: webgl
+          path: docs/
+      - uses: KikimoraGames/itch-publish@v0.0.3
+        with:
+          butlerApiKey: ${{secrets.BUTLER_API_KEY}}
+          gameData: docs/
+          itchUsername: ${{env.ITCH_USERNAME}}
+          itchGameId: ${{ env.ITCH_GAME_ID }}
+          buildChannel: webgl
