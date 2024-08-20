@@ -66,7 +66,12 @@ Must have all the gods (every friend in game) and they will battle some big enem
 
 ### Emily
 
-- in hole in forest
+- in hole in forest (NE)
+- 15 friends to unblock hole
+
+### Mason
+
+- in hole in forest (NE)
 - 15 friends to unblock hole
 
 
@@ -131,8 +136,6 @@ Must have all the gods (every friend in game) and they will battle some big enem
 ### Alijah
 
 ### Riley
-
-### Mason
 
 ### Bobby
 
