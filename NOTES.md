@@ -34,7 +34,7 @@ Must have all the gods (every friend in game) and they will battle some big enem
 
 - No quest, just talk to them.
 
-### Inky
+### Tim
 
 - Get lost synth (well)
 - Friend them to get a new village music track?
@@ -79,10 +79,41 @@ Must have all the gods (every friend in game) and they will battle some big enem
 - No quest, just talk to them.
 - 8 friends to open door
 
-
 ### Simon
 
+- Beat their space-game
+- 8 friends to open door
+
+
+### James
+
+- No quest, just talk to them.
+- 8 friends to open door
+
+### Jayro
+
+- answer phone & buy some vermine urine.
+- 8 friends to open door
+
+
+## Holy
+
+### Wade
+
+### Sara
+
 ### Oreo
+
+### Inky
+
+### Nicole
+
+### Liz
+
+### Emily
+
+
+## Snow
 
 ### Alijah
 
@@ -94,45 +125,13 @@ Must have all the gods (every friend in game) and they will battle some big enem
 
 ### Charlie
 
-### Mike
-
-### Tim
-
-### Emily
-
-### James
-
-### Sara
-
-### Wade
-
-### Liz
-
 ### Knute
 
 ### Steve
 
 ### Laura
 
-### Nicole
-
 ### Anne
-
-
-
-
-# WALKTHROUGH
-
-- start in forest
-- friend David in Forest Village
-- get Inky's synth (SE forest) talk to them to friend
-- talk to Kristin, fight turnip (NW forest) talk to Kristin
-- talk to Angel, talk to batman-kid in forest ("I am the night!"), convince him to go with you (you are looking for villains, you are a sidekick) talk to Angel, again
-- go to desert village, rap battle Horse for Belle
-- go back to forest village and friend Danny
-- talk to Josh in desert village. Go to desert, and down hole in SW, complete maze (see grass pattern) get skull in NE of new desert area
-- While you are there grab flower
-- Go back and talk to Sandra
 
   
 </details>

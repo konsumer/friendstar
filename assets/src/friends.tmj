@@ -60,14 +60,14 @@
         }, 
         {
          "compression":"zlib",
-         "data":"eJxjYBi5QA+IvYDYB4jdCKjVhaqNprWjkIAp1E4\/PGp0gNgfiMOAOJSBsD+oCdQYIG4DudEXiKOwqDFBclc4A33dpw3ETgwQN4LsDcGiRheqBhR+wVA2vQDIfQFQd3likddngIStC1QdKIzpGX6guAOFB6FwUWKApEEQpqf7LBgg7nLFY68qAyTsYO6jZ\/ySA4SBWABKgwAA0W0Q7w==",
+         "data":"eJxjYBi5QBuInYA4CoiDgTgAj1pdIPYC4mg6uAsGTKF2+uFRowPE\/kAcBsShQOxGB3fBgBoDxG0gN\/oyQMIRHZgguSucgb7ug8WvH9TeECxqdKFqQOEXDGXTC4DcFwB1lycWeX0GSNi6QNWBwpie4QeKO1B4EAoXJQZIGgRherrPggHiLlc89qoyQMIO5j56xi85QBiIBaA0CAAAiR8RTw==",
          "encoding":"base64",
          "height":18,
          "id":4,
          "name":"text (page 2)",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":20,
          "x":0,
          "y":0
@@ -81,7 +81,7 @@
          "name":"text (page 1)",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":20,
          "x":0,
          "y":0
