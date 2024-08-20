@@ -41,7 +41,7 @@ Must have all the gods (every friend in game) and they will battle some big enem
 
 ### Angel
 
-- Missing kid
+- Find missing kid
 - 3 friends to open door
 
 ### Kristin
@@ -57,22 +57,31 @@ Must have all the gods (every friend in game) and they will battle some big enem
 ### Nicole
 
 - in hole in forest
+- No quest, just talk to them.
 - 15 friends to unblock hole
 
 ### Liz
 
 - in hole in forest
+- No quest, just talk to them.
 - 15 friends to unblock hole
 
 ### Emily
 
 - in hole in forest (NE)
+- No quest, just talk to them.
 - 15 friends to unblock hole
 
 ### Mason
 
 - in hole in forest (NE)
+- No quest, just talk to them.
 - 15 friends to unblock hole
+
+### Riley
+
+- in well in forest (SW)
+- No quest, just talk to them.
 
 
 ## Desert
@@ -101,7 +110,6 @@ Must have all the gods (every friend in game) and they will battle some big enem
 - Beat their space-game
 - 8 friends to open door
 
-
 ### James
 
 - No quest, just talk to them.
@@ -115,7 +123,23 @@ Must have all the gods (every friend in game) and they will battle some big enem
 ### Knute
 
 - Go down hole in desert
+- No quest, just talk to them.
 - 10 friends to unblock hole
+
+
+## Snow
+
+### Alijah
+
+### Bobby
+
+### Charlie
+
+### Steve
+
+### Laura
+
+### Anne
 
 
 ## Holy
@@ -128,24 +152,6 @@ Must have all the gods (every friend in game) and they will battle some big enem
 
 ### Inky
 
-
-
-
-## Snow
-
-### Alijah
-
-### Riley
-
-### Bobby
-
-### Charlie
-
-### Steve
-
-### Laura
-
-### Anne
 
   
 </details>
