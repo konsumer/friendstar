@@ -146,11 +146,19 @@ Must have all the gods (every friend in game) and they will battle some big enem
 
 ### Wade
 
+- deliver his charm to the sea
+
 ### Sara
+
+- deliver her charm to the forest
 
 ### Oreo
 
+- feed cat food
+
 ### Inky
+
+- feed cat food
 
 
   

@@ -3,12 +3,16 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "map_ice2.tmj",
+    "activeFile": "",
     "expandedProjectPaths": [
         "."
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
+        "TilesetGraveyard.tsj": {
+            "scaleInDock": 2.3656,
+            "scaleInEditor": 2.75
+        },
         "dungeons.tsj": {
             "scaleInDock": 1,
             "scaleInEditor": 1
@@ -82,8 +86,8 @@
             "scale": 2.2889062499999997,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 150.5085671376886,
-                "y": 93.93132637040074
+                "x": 163.17837395044035,
+                "y": 115.7758208751451
             }
         },
         "map_ice1.tmj": {
@@ -156,10 +160,15 @@
     "map.tileWidth": 16,
     "map.width": 4,
     "openFiles": [
-        "map_ice2.tmj"
+        "TilesetGraveyard.tsj",
+        "map_holy_graveyard.tmj",
+        "map_forest.tmj"
     ],
     "project": "friendstar.tiled-project",
     "recentFiles": [
+        "TilesetGraveyard.tsj",
+        "map_forest.tmj",
+        "map_holy_graveyard.tmj",
         "map_ice3.tmj",
         "map_ice2.tmj",
         "map_ice_church.tmj",
@@ -168,10 +177,7 @@
         "map_forest_church.tmj",
         "map_ice1.tmj",
         "dungeons.tsj",
-        "map_desert_underground.tmj",
-        "map_desert1.tmj",
-        "map_forest.tmj",
-        "map_forest_village.tmj"
+        "map_desert_underground.tmj"
     ],
     "tileset.lastUsedFormat": "json",
     "tileset.tileSize": {
