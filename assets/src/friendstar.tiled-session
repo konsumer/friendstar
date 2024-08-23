@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "map_ice3.tmj",
+    "activeFile": "",
     "expandedProjectPaths": [
         "."
     ],
@@ -82,16 +82,16 @@
             "scale": 1.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 258.6666666666667,
-                "y": 283.66666666666663
+                "x": 240,
+                "y": 239.33333333333331
             }
         },
         "map_ice2.tmj": {
             "scale": 2,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 41,
-                "y": 44.75
+                "x": 80,
+                "y": 79.75
             }
         },
         "map_ice3.tmj": {
@@ -128,15 +128,12 @@
     "map.tileWidth": 16,
     "map.width": 15,
     "openFiles": [
-        "map_ice1.tmj",
-        "map_ice2.tmj",
-        "map_ice3.tmj"
     ],
     "project": "friendstar.tiled-project",
     "recentFiles": [
-        "map_ice1.tmj",
-        "map_ice2.tmj",
         "map_ice3.tmj",
+        "map_ice2.tmj",
+        "map_ice1.tmj",
         "dungeons.tsj",
         "map_desert_underground.tmj",
         "map_desert1.tmj",
