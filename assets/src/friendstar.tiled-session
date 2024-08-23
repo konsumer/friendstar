@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "map_ice2.tmj",
     "expandedProjectPaths": [
         "."
     ],
@@ -41,8 +41,8 @@
             "scale": 1.5103515625,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 256.231734126471,
-                "y": 79.78274925643348
+                "x": 256.56278287857236,
+                "y": 180.0905211431527
             }
         },
         "map_desert_village.tmj#Store_Final": {
@@ -50,18 +50,18 @@
         },
         "map_forest.tmj": {
             "scale": 0.9079427083333332,
-            "selectedLayer": 0,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 428.4411300731393,
-                "y": 383.8347913380181
+                "x": 519.305894163201,
+                "y": 411.9202638749462
             }
         },
         "map_forest_church.tmj": {
-            "scale": 1.8072265625,
-            "selectedLayer": 0,
+            "scale": 1.8,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 198.09359126769698,
-                "y": 128.09683345941855
+                "x": 198.05555555555554,
+                "y": 211.66666666666669
             }
         },
         "map_forest_church.tmj#Store_Final": {
@@ -78,29 +78,56 @@
         "map_forest_village.tmj#Store_Final": {
             "scaleInDock": 1
         },
-        "map_ice1.tmj": {
-            "scale": 1.5,
-            "selectedLayer": 0,
+        "map_holy_graveyard.tmj": {
+            "scale": 2.2889062499999997,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 240,
-                "y": 239.33333333333331
+                "x": 150.5085671376886,
+                "y": 93.93132637040074
+            }
+        },
+        "map_ice1.tmj": {
+            "scale": 1.0778,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 269.5305251438115,
+                "y": 288.55075153089626
             }
         },
         "map_ice2.tmj": {
             "scale": 2,
-            "selectedLayer": 0,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 80,
-                "y": 79.75
+                "x": 79.25,
+                "y": 58
             }
         },
         "map_ice3.tmj": {
             "scale": 1.5,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 120.66666666666669,
-                "y": 98.99999999999997
+                "x": 121,
+                "y": 98.66666666666669
             }
+        },
+        "map_ice_church.tmj": {
+            "scale": 1.69,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": -70.11834319526628,
+                "y": 209.46745562130178
+            }
+        },
+        "map_ice_village.tmj": {
+            "scale": 1.2451785714285715,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 283.8950236626989,
+                "y": 293.933744442851
+            }
+        },
+        "map_ice_village.tmj#Store_Final": {
+            "scaleInDock": 1
         },
         "menu.tsj": {
             "scaleInDock": 1,
@@ -115,33 +142,40 @@
             }
         },
         "overworld.tsj": {
-            "scaleInDock": 1,
+            "scaleInDock": 0.9729,
             "scaleInEditor": 1
         },
         "pixelnook/OptimizedBuildings/Bank.tsj": {
             "scaleInDock": 1
         }
     },
-    "map.height": 15,
+    "last.imagePath": "/Users/konsumer/Desktop/dev/friendstar/assets/src",
+    "map.height": 2,
     "map.lastUsedFormat": "json",
     "map.tileHeight": 16,
     "map.tileWidth": 16,
-    "map.width": 15,
+    "map.width": 4,
     "openFiles": [
+        "map_ice2.tmj"
     ],
     "project": "friendstar.tiled-project",
     "recentFiles": [
         "map_ice3.tmj",
         "map_ice2.tmj",
+        "map_ice_church.tmj",
+        "map_ice_village.tmj",
+        "map_desert_village.tmj",
+        "map_forest_church.tmj",
         "map_ice1.tmj",
         "dungeons.tsj",
         "map_desert_underground.tmj",
         "map_desert1.tmj",
         "map_forest.tmj",
-        "map_forest_church.tmj",
-        "map_forest_village.tmj",
-        "map_desert_village.tmj",
-        "oubliette.tmj",
-        "menu.tsj"
-    ]
+        "map_forest_village.tmj"
+    ],
+    "tileset.lastUsedFormat": "json",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
 }

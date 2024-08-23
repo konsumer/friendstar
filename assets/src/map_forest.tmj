@@ -18,7 +18,7 @@
         }, 
         {
          "compression":"zlib",
-         "data":"eJzVmV1OwzAMgKtu6zFaTsCJxg04EY8hFJAYt+AOeyxdBxLwwBFwRCNC5fx1WWp\/UqRpTWM3sZ3YeVkVRbcpildoPbQDtAHacRP\/fyip5H2D7qt1uFxqXILu9xHzRo3rddy6p+IBZD4mkCthjKY6z9gu3mD89wQylD9M7SfV2OdiV\/79biPjBjVUHKorf7+c1BHzKaDvnaP\/U2l\/9ux45nrPxzZyHzkQs58biz7YfEnEfzFi1vRU9iDrK3D9+kD\/jVnTnCjfddm\/xramSyMQ+98ha7cnqr\/y31uiuoXQjudSrgyB8WdJXOcxweD84DqPcbd\/BWb\/p+z\/uYmxfyy2Lg11+\/cRsv9SAVt\/7PyZI4dMBWb\/1HNIDYf476JjrLtCMte\/N\/SnGNt9TGtXVLHlryLAflx1hlzY8lcu\/mvLX1sm+tvy12Fm7YoKgkH+5aIz9t+cNapUmPV\/qjUqF72RP\/pqVBT3NzHWTz5KujUqk+kcdoT9NyT+Sebn557Q\/cucc8pFYP3Zx1J7XRtYf9bk1tOWh2s9hoz1tznfrvPwT8u7knn9Gbu\/5oS+vxajHcnxPrUdv0v5t\/DYWG30mf5Wrans46vnW2hX1a+spvovE9NH91fvKvv\/AdSKlwU=",
+         "data":"eJzdmVFOwzAMQKtu6zFaTsCJxg04EZ8hKyAxbsEd9lm6DiTGB0fAEY0IVZI6XZbae1Kkqk1jN7ET231dZFmzyrI3aC20PbQO2mEVfh9LLHnfoPtiiZdLjWvQ\/SFg3qhxuwxb91g8gsynCHIljFEV5xnbxzuM\/xFBhvKHof3EGvtcbPO\/6zpw36CG2ofKYrxfSsqA+RTQd+Pp\/5y7n714nvneG2MdeI7sidnPnUMf23xJi\/\/aCFnTU9mBrC\/k+rVI\/w1Z05Qo3\/XZv8a1pnMjLPa\/tazdjqj+yn\/vieqGoe7jUq50yP1nTnzxmGAQP\/jisUu1\/1PO\/5SE2r9tb52TS4ifMecvFWzrb4s\/U+SQsbDZP\/UcUsNh\/\/fRMNZdIZnr3xr6U9vbMQxrV1Rx5a8CYT++OkMqXPkrF\/915a81E\/1d+Ws3sXZFBcEg\/\/LRGOdvyhpVLMz6P9UalY\/WyB\/HalQUzzfR54+fOd0alclwDhvC\/ovZ\/yTz+Lkl9P9lSpxyhaw\/jzHXWVcj68+a1Hq68nCtR5ew\/jbl23UefnS8K5nXn23\/rzmh62+ityPZ17Pq\/ruUf4sRGyuNPsNr1arCPb56voZ2U\/zKqor\/Mm366P7qXWX\/P89lmi0=",
          "encoding":"base64",
          "height":48,
          "id":2,
@@ -57,6 +57,6 @@
         }],
  "tilewidth":16,
  "type":"map",
- "version":"1.10",
+ "version":"1.11",
  "width":48
 }

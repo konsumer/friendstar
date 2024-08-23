@@ -1,0 +1,14 @@
+{ "columns":12,
+ "image":"TilesetGraveyard.png",
+ "imageheight":200,
+ "imagewidth":200,
+ "margin":0,
+ "name":"TilesetGraveyard",
+ "spacing":0,
+ "tilecount":144,
+ "tiledversion":"1.11.0",
+ "tileheight":16,
+ "tilewidth":16,
+ "type":"tileset",
+ "version":"1.11"
+}
