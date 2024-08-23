@@ -64285,38 +64285,6 @@
             "labelColor": "yellow"
         },
         {
-            "name": "Holy - Flat Fields",
-            "backgroundId": "472551a8-93b4-4888-8a4e-2afbf3dca465",
-            "tilesetId": "",
-            "width": 20,
-            "height": 18,
-            "type": "TOPDOWN",
-            "paletteIds": [],
-            "spritePaletteIds": [],
-            "collisions": [],
-            "autoFadeSpeed": 1,
-            "id": "34927dc6-a3f4-475a-a60a-5eb08d407691",
-            "symbol": "scene_36",
-            "x": 2944,
-            "y": 944,
-            "actors": [],
-            "triggers": [],
-            "script": [
-                {
-                    "command": "EVENT_CALL_CUSTOM_EVENT",
-                    "args": {
-                        "customEventId": "974aa4e4-0a55-4ae8-bae5-9688f3be6833",
-                        "__collapse": true
-                    },
-                    "id": "19622029-36ff-4ebf-9080-e99b5e6d49b0"
-                }
-            ],
-            "playerHit1Script": [],
-            "playerHit2Script": [],
-            "playerHit3Script": [],
-            "labelColor": "purple"
-        },
-        {
             "name": "Ice 2",
             "backgroundId": "2844ac0c-b9aa-4538-bce0-6520584cbc44",
             "tilesetId": "",
@@ -116480,9 +116448,9 @@
         "showConnections": true,
         "showCollisionSlopeTiles": false,
         "showCollisionExtraTiles": false,
-        "worldScrollX": 4776,
-        "worldScrollY": 2191.5,
-        "zoom": 194,
+        "worldScrollX": 2689,
+        "worldScrollY": 1214,
+        "zoom": 110,
         "sgbEnabled": false,
         "customHead": "",
         "defaultBackgroundPaletteIds": [
