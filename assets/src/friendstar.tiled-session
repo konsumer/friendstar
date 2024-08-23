@@ -1,0 +1,150 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "map_ice3.tmj",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "dungeons.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map_desert1.tmj": {
+            "scale": 0.9079427083333332,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 428.4411300731393,
+                "y": 383.8347913380181
+            }
+        },
+        "map_desert2.tmj": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 160,
+                "y": 159.5
+            }
+        },
+        "map_desert_underground.tmj": {
+            "scale": 0.871625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 446.29284382618675,
+                "y": 399.82790764376887
+            }
+        },
+        "map_desert_village.tmj": {
+            "scale": 1.5103515625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 256.231734126471,
+                "y": 79.78274925643348
+            }
+        },
+        "map_desert_village.tmj#Store_Final": {
+            "scaleInDock": 1
+        },
+        "map_forest.tmj": {
+            "scale": 0.9079427083333332,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 428.4411300731393,
+                "y": 383.8347913380181
+            }
+        },
+        "map_forest_church.tmj": {
+            "scale": 1.8072265625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 198.09359126769698,
+                "y": 128.09683345941855
+            }
+        },
+        "map_forest_church.tmj#Store_Final": {
+            "scaleInDock": 1
+        },
+        "map_forest_village.tmj": {
+            "scale": 1.2451785714285715,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 312.40499067833076,
+                "y": 31.722357665280384
+            }
+        },
+        "map_forest_village.tmj#Store_Final": {
+            "scaleInDock": 1
+        },
+        "map_ice1.tmj": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 258.6666666666667,
+                "y": 283.66666666666663
+            }
+        },
+        "map_ice2.tmj": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 41,
+                "y": 44.75
+            }
+        },
+        "map_ice3.tmj": {
+            "scale": 1.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 120.66666666666669,
+                "y": 98.99999999999997
+            }
+        },
+        "menu.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "oubliette.tmj": {
+            "scale": 4.833125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 80.07241691452217,
+                "y": 71.89965084701926
+            }
+        },
+        "overworld.tsj": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "pixelnook/OptimizedBuildings/Bank.tsj": {
+            "scaleInDock": 1
+        }
+    },
+    "map.height": 15,
+    "map.lastUsedFormat": "json",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 15,
+    "openFiles": [
+        "map_ice1.tmj",
+        "map_ice2.tmj",
+        "map_ice3.tmj"
+    ],
+    "project": "friendstar.tiled-project",
+    "recentFiles": [
+        "map_ice1.tmj",
+        "map_ice2.tmj",
+        "map_ice3.tmj",
+        "dungeons.tsj",
+        "map_desert_underground.tmj",
+        "map_desert1.tmj",
+        "map_forest.tmj",
+        "map_forest_church.tmj",
+        "map_forest_village.tmj",
+        "map_desert_village.tmj",
+        "oubliette.tmj",
+        "menu.tsj"
+    ]
+}
