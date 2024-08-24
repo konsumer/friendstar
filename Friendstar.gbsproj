@@ -1178,15 +1178,15 @@
                                 "command": "EVENT_MENU",
                                 "args": {
                                     "variable": "L0",
-                                    "items": 5,
-                                    "option1": "CoolPup",
+                                    "items": 8,
+                                    "option1": "Dessert",
                                     "option2": "Runing",
                                     "option3": "Welcome",
                                     "option4": "Forest",
                                     "option5": "Brow",
-                                    "option6": "",
-                                    "option7": "",
-                                    "option8": "",
+                                    "option6": "Crystal",
+                                    "option7": "Paddle",
+                                    "option8": "Rap",
                                     "cancelOnB": true,
                                     "layout": "menu",
                                     "cancelOnLastOption": false,
@@ -1198,7 +1198,7 @@
                                 "command": "EVENT_SWITCH",
                                 "args": {
                                     "variable": "L0",
-                                    "choices": 5,
+                                    "choices": 8,
                                     "__collapseCase0": true,
                                     "value0": 1,
                                     "__collapseCase1": true,
@@ -1209,11 +1209,11 @@
                                     "value3": 4,
                                     "__collapseCase4": true,
                                     "value4": 5,
-                                    "__collapseCase5": false,
+                                    "__collapseCase5": true,
                                     "value5": 6,
-                                    "__collapseCase6": false,
+                                    "__collapseCase6": true,
                                     "value6": 7,
-                                    "__collapseCase7": false,
+                                    "__collapseCase7": true,
                                     "value7": 8,
                                     "__collapseCase8": false,
                                     "value8": 9,
@@ -1232,7 +1232,7 @@
                                     "__collapseCase15": false,
                                     "value15": 16,
                                     "__collapseElse": true,
-                                    "__collapse": true
+                                    "__collapse": false
                                 },
                                 "children": {
                                     "true0": [
@@ -1285,9 +1285,36 @@
                                             "id": "ee9b360e-25e6-4f19-9d92-1b1e40ce82bc"
                                         }
                                     ],
-                                    "true5": [],
-                                    "true6": [],
-                                    "true7": [],
+                                    "true5": [
+                                        {
+                                            "command": "EVENT_MUSIC_PLAY",
+                                            "args": {
+                                                "musicId": "5130706a-4a27-4113-a2f5-bcf0be21f037",
+                                                "__collapse": false
+                                            },
+                                            "id": "76f42e78-61cf-49ba-9ac0-7329d45b26c6"
+                                        }
+                                    ],
+                                    "true6": [
+                                        {
+                                            "command": "EVENT_MUSIC_PLAY",
+                                            "args": {
+                                                "musicId": "092a9c99-7778-46fb-a273-23247da015ff",
+                                                "__collapse": false
+                                            },
+                                            "id": "7b4fca06-2e1c-431d-9fa2-e2b9aad68697"
+                                        }
+                                    ],
+                                    "true7": [
+                                        {
+                                            "command": "EVENT_MUSIC_PLAY",
+                                            "args": {
+                                                "musicId": "f9d1fa4a-7ceb-4522-9310-45da0346d1ba",
+                                                "__collapse": true
+                                            },
+                                            "id": "dc02539b-f796-4464-9a66-05aa37e757d5"
+                                        }
+                                    ],
                                     "true8": [],
                                     "true9": [],
                                     "true10": [],
@@ -1318,6 +1345,20 @@
                                     ]
                                 },
                                 "id": "e0495ebc-729c-496e-bcc6-babae11cb66b"
+                            },
+                            {
+                                "command": "EVENT_CAMERA_SHAKE",
+                                "args": {
+                                    "time": 0.5,
+                                    "frames": 30,
+                                    "shakeDirection": "horizontal",
+                                    "magnitude": {
+                                        "type": "number",
+                                        "value": 5
+                                    },
+                                    "__collapse": true
+                                },
+                                "id": "79291a0b-a4e3-47fe-bfc7-d98e42ee7f47"
                             }
                         ]
                     },
@@ -119383,8 +119424,8 @@
         "showConnections": true,
         "showCollisionSlopeTiles": false,
         "showCollisionExtraTiles": false,
-        "worldScrollX": 1466,
-        "worldScrollY": 1879,
+        "worldScrollX": 1198.5,
+        "worldScrollY": 415,
         "zoom": 108,
         "sgbEnabled": false,
         "customHead": "",
