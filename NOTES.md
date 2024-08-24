@@ -159,7 +159,7 @@ Must have all the gods (every friend in game) and they will battle some big enem
 - No quest, just talk to them.
 
 
-## Holy
+## Spirit
 
 ### Wade
 
