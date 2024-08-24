@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "map_desert1.tmj",
+    "activeFile": "friends.tmj",
     "expandedProjectPaths": [
         "."
     ],
@@ -17,12 +17,20 @@
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "friends.tmj": {
+            "scale": 4,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 73.75,
+                "y": 86.625
+            }
+        },
         "map_desert1.tmj": {
-            "scale": 0.9079427083333332,
+            "scale": 1,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 428.4411300731393,
-                "y": 383.8347913380181
+                "x": 369,
+                "y": 387.5
             }
         },
         "map_desert2.tmj": {
@@ -54,10 +62,10 @@
         },
         "map_forest.tmj": {
             "scale": 0.9079427083333332,
-            "selectedLayer": 1,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 519.8565897031407,
-                "y": 411.3695683350065
+                "x": 384.3854868779579,
+                "y": 383.8347913380181
             }
         },
         "map_forest_church.tmj": {
@@ -134,7 +142,7 @@
             "scaleInDock": 1
         },
         "menu.tsj": {
-            "scaleInDock": 1,
+            "scaleInDock": 3,
             "scaleInEditor": 1
         },
         "oubliette.tmj": {
@@ -160,23 +168,26 @@
     "map.tileWidth": 16,
     "map.width": 4,
     "openFiles": [
-        "map_ice1.tmj",
-        "map_desert1.tmj"
+        "menu.tsj",
+        "friends.tmj",
+        "dungeons.tsj",
+        "overworld.tsj",
+        "TilesetGraveyard.tsj"
     ],
     "project": "friendstar.tiled-project",
     "recentFiles": [
-        "map_ice1.tmj",
-        "map_desert1.tmj",
+        "menu.tsj",
         "TilesetGraveyard.tsj",
-        "map_holy_graveyard.tmj",
+        "overworld.tsj",
+        "dungeons.tsj",
+        "friends.tmj",
         "map_forest.tmj",
+        "map_desert1.tmj",
+        "map_ice1.tmj",
+        "map_holy_graveyard.tmj",
         "map_ice3.tmj",
         "map_ice2.tmj",
-        "map_ice_church.tmj",
-        "map_ice_village.tmj",
-        "map_desert_village.tmj",
-        "map_forest_church.tmj",
-        "dungeons.tsj"
+        "map_ice_church.tmj"
     ],
     "tileset.lastUsedFormat": "json",
     "tileset.tileSize": {

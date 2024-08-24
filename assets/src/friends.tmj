@@ -18,6 +18,20 @@
         }, 
         {
          "compression":"zlib",
+         "data":"eJxjYBgF1AQlHBC6lAO7fBlUvByHPCHwkoD8KwLym6D2bsZh\/xao+FYi3KcOxAFAHAzEbkAcAsShaGosgNgJKu4GVTsKEOADNJw\/4gjvT1Dxz2Sml9cE5N8QkNfjhND6nNjlDaDihjjk0QEozXgxINIMMjAB4kAkeRCNnp5GGgAAoGETQw==",
+         "encoding":"base64",
+         "height":18,
+         "id":7,
+         "name":"gods",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":20,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "compression":"zlib",
          "data":"eJxjYKAd0ARiNyAOhtIg4AXEIVC2BxA7AbEfkvxAAT0gNgNiEyDWAmIVIGYaQPcYMiDCLYQBEWbKUDoUiAOgbJCaSAZI2ILE+ennzFEwCkYBDQEAS+AHNA==",
          "encoding":"base64",
          "height":18,
@@ -39,7 +53,7 @@
          "name":"title",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":20,
          "x":0,
          "y":0
@@ -53,7 +67,7 @@
          "name":"checks",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":20,
          "x":0,
          "y":0
@@ -67,7 +81,7 @@
          "name":"text (page 2)",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":20,
          "x":0,
          "y":0
@@ -86,7 +100,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":7,
+ "nextlayerid":8,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
@@ -96,9 +110,13 @@
         {
          "firstgid":1,
          "source":"menu.tsj"
+        }, 
+        {
+         "firstgid":289,
+         "source":"overworld.tsj"
         }],
  "tilewidth":8,
  "type":"map",
- "version":"1.10",
+ "version":"1.11",
  "width":20
 }
