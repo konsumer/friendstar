@@ -616,11 +616,11 @@
                                                             "sceneId": "72808a54-0e14-466f-a731-74e9cb69fbc6",
                                                             "x": {
                                                                 "type": "number",
-                                                                "value": 8
+                                                                "value": 1
                                                             },
                                                             "y": {
                                                                 "type": "number",
-                                                                "value": 9
+                                                                "value": 5
                                                             },
                                                             "direction": "",
                                                             "fadeSpeed": "2",
@@ -735,11 +735,11 @@
                                                             "sceneId": "72808a54-0e14-466f-a731-74e9cb69fbc6",
                                                             "x": {
                                                                 "type": "number",
-                                                                "value": 8
+                                                                "value": 1
                                                             },
                                                             "y": {
                                                                 "type": "number",
-                                                                "value": 9
+                                                                "value": 3
                                                             },
                                                             "direction": "",
                                                             "fadeSpeed": "2",
@@ -1201,19 +1201,19 @@
                                     "choices": 8,
                                     "__collapseCase0": true,
                                     "value0": 1,
-                                    "__collapseCase1": true,
+                                    "__collapseCase1": false,
                                     "value1": 2,
-                                    "__collapseCase2": true,
+                                    "__collapseCase2": false,
                                     "value2": 3,
-                                    "__collapseCase3": true,
+                                    "__collapseCase3": false,
                                     "value3": 4,
-                                    "__collapseCase4": true,
+                                    "__collapseCase4": false,
                                     "value4": 5,
-                                    "__collapseCase5": true,
+                                    "__collapseCase5": false,
                                     "value5": 6,
-                                    "__collapseCase6": true,
+                                    "__collapseCase6": false,
                                     "value6": 7,
-                                    "__collapseCase7": true,
+                                    "__collapseCase7": false,
                                     "value7": 8,
                                     "__collapseCase8": false,
                                     "value8": 9,
@@ -1240,9 +1240,19 @@
                                             "command": "EVENT_MUSIC_PLAY",
                                             "args": {
                                                 "musicId": "c7115c04-702b-4c45-8858-86a6cc43f98d",
-                                                "__collapse": false
+                                                "__collapse": true
                                             },
                                             "id": "c883bd74-ac68-4eee-a75b-13c84a8ab2cf"
+                                        },
+                                        {
+                                            "command": "PT_EVENT_BACKGROUND_TEXT",
+                                            "args": {
+                                                "text": "konsumer          ",
+                                                "x": 1,
+                                                "y": 7,
+                                                "__collapse": false
+                                            },
+                                            "id": "7dccabc3-e904-470c-8223-0c037c611ee8"
                                         }
                                     ],
                                     "true1": [
@@ -1250,9 +1260,19 @@
                                             "command": "EVENT_MUSIC_PLAY",
                                             "args": {
                                                 "musicId": "7cca5093-24ac-46ba-8195-fbb368eb8f1e",
-                                                "__collapse": false
+                                                "__collapse": true
                                             },
                                             "id": "5cb4b5b7-e7f5-412c-ae5b-96a94655afb5"
+                                        },
+                                        {
+                                            "command": "PT_EVENT_BACKGROUND_TEXT",
+                                            "args": {
+                                                "text": "DrBJB             ",
+                                                "x": 1,
+                                                "y": 7,
+                                                "__collapse": false
+                                            },
+                                            "id": "f1e0a41d-0a5e-4553-a98e-3b1b514ef122"
                                         }
                                     ],
                                     "true2": [
@@ -1260,9 +1280,19 @@
                                             "command": "EVENT_MUSIC_PLAY",
                                             "args": {
                                                 "musicId": "f06856e6-2688-4ef4-83aa-3d2cba355b19",
-                                                "__collapse": false
+                                                "__collapse": true
                                             },
                                             "id": "a30c61b4-c4b0-4591-9562-ace46bf2cdac"
+                                        },
+                                        {
+                                            "command": "PT_EVENT_BACKGROUND_TEXT",
+                                            "args": {
+                                                "text": "konsumer          ",
+                                                "x": 1,
+                                                "y": 7,
+                                                "__collapse": false
+                                            },
+                                            "id": "3664f2bf-61ed-44cb-855c-17eaa02b68dd"
                                         }
                                     ],
                                     "true3": [
@@ -1273,6 +1303,16 @@
                                                 "__collapse": false
                                             },
                                             "id": "60e2a2bc-759a-464a-bdaa-9deb355b6fc4"
+                                        },
+                                        {
+                                            "command": "PT_EVENT_BACKGROUND_TEXT",
+                                            "args": {
+                                                "text": "konsumer          ",
+                                                "x": 1,
+                                                "y": 7,
+                                                "__collapse": false
+                                            },
+                                            "id": "303d56b6-0910-4f82-b04c-75e141abe34a"
                                         }
                                     ],
                                     "true4": [
@@ -1283,6 +1323,16 @@
                                                 "__collapse": true
                                             },
                                             "id": "ee9b360e-25e6-4f19-9d92-1b1e40ce82bc"
+                                        },
+                                        {
+                                            "command": "PT_EVENT_BACKGROUND_TEXT",
+                                            "args": {
+                                                "text": "DrBJB             ",
+                                                "x": 1,
+                                                "y": 7,
+                                                "__collapse": false
+                                            },
+                                            "id": "e7ea4448-c4a1-41e7-81c1-3c62f806aac6"
                                         }
                                     ],
                                     "true5": [
@@ -1290,9 +1340,19 @@
                                             "command": "EVENT_MUSIC_PLAY",
                                             "args": {
                                                 "musicId": "5130706a-4a27-4113-a2f5-bcf0be21f037",
-                                                "__collapse": false
+                                                "__collapse": true
                                             },
                                             "id": "76f42e78-61cf-49ba-9ac0-7329d45b26c6"
+                                        },
+                                        {
+                                            "command": "PT_EVENT_BACKGROUND_TEXT",
+                                            "args": {
+                                                "text": "TipTopTomCat      ",
+                                                "x": 1,
+                                                "y": 7,
+                                                "__collapse": false
+                                            },
+                                            "id": "63aec9df-6ca6-4aec-95da-b370dd9a13fa"
                                         }
                                     ],
                                     "true6": [
@@ -1300,9 +1360,19 @@
                                             "command": "EVENT_MUSIC_PLAY",
                                             "args": {
                                                 "musicId": "092a9c99-7778-46fb-a273-23247da015ff",
-                                                "__collapse": false
+                                                "__collapse": true
                                             },
                                             "id": "7b4fca06-2e1c-431d-9fa2-e2b9aad68697"
+                                        },
+                                        {
+                                            "command": "PT_EVENT_BACKGROUND_TEXT",
+                                            "args": {
+                                                "text": "TipTopTomCat      ",
+                                                "x": 1,
+                                                "y": 7,
+                                                "__collapse": false
+                                            },
+                                            "id": "d213fc1d-cf7d-4f31-98a7-b71b22dfeb16"
                                         }
                                     ],
                                     "true7": [
@@ -1313,6 +1383,16 @@
                                                 "__collapse": true
                                             },
                                             "id": "dc02539b-f796-4464-9a66-05aa37e757d5"
+                                        },
+                                        {
+                                            "command": "PT_EVENT_BACKGROUND_TEXT",
+                                            "args": {
+                                                "text": "DrBJB             ",
+                                                "x": 1,
+                                                "y": 7,
+                                                "__collapse": false
+                                            },
+                                            "id": "e407f4aa-8c4b-4ef8-91bd-f06ba2c77674"
                                         }
                                     ],
                                     "true8": [],
@@ -119424,8 +119504,8 @@
         "showConnections": true,
         "showCollisionSlopeTiles": false,
         "showCollisionExtraTiles": false,
-        "worldScrollX": 1198.5,
-        "worldScrollY": 415,
+        "worldScrollX": 1218,
+        "worldScrollY": 1,
         "zoom": 108,
         "sgbEnabled": false,
         "customHead": "",
@@ -119525,7 +119605,7 @@
         "debuggerWatchedVariables": [],
         "colorMode": "mixed",
         "previewAsMono": false,
-        "openBuildLogOnWarnings": true,
+        "openBuildLogOnWarnings": false,
         "generateDebugFilesEnabled": false,
         "defaultFadeStyle": "white",
         "playerSpriteSheetId": "581d34d0-9591-4e6e-a609-1d94f203b0cd"

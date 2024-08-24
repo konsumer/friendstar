@@ -67,7 +67,9 @@ $Friends2
 
 ## FIRE
 
+```
 ($Friends & 64) && ($Friends & 4) && ($Friends & 16) && ($Friends2 & 8192) && ($Friends2 & 256) && ($Friends2 & 64) && ($Friends2 & 1) && ($Friends2 & 8) 
+```
 
 - Belle
 - Sandra
@@ -81,8 +83,9 @@ $Friends2
 
 
 ## ICE
-
+```
 ($Friends & 4096) && ($Friends & 512) && ($Friends & 2048) && ($Friends2 & 128) && ($Friends2 & 2048) && ($Friends2 & 32)
+```
 
 - Alijah
 - Bobby
@@ -94,8 +97,9 @@ $Friends2
 
 
 ## SPIRIT
-
+```
 ($Friends & 256) && ($Friends & 1024) && ($Friends2 & 4096) && ($Friends2 & 1024)
+```
 
 - Oreo
 - Inky
