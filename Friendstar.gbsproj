@@ -69928,6 +69928,15 @@
                                 "__collapse": true
                             },
                             "id": "33514c43-5760-4535-9713-7d2a59ca4a8c"
+                        },
+                        {
+                            "command": "EVENT_ACTOR_EMOTE",
+                            "args": {
+                                "actorId": "$self$",
+                                "emoteId": "edf96d29-9a08-4813-b2d3-46e0996f89f2",
+                                "__collapse": true
+                            },
+                            "id": "e363fed7-7330-42f6-af6c-2aaee18a6336"
                         }
                     ],
                     "startScript": [
@@ -119374,8 +119383,8 @@
         "showConnections": true,
         "showCollisionSlopeTiles": false,
         "showCollisionExtraTiles": false,
-        "worldScrollX": 1996,
-        "worldScrollY": 695,
+        "worldScrollX": 1466,
+        "worldScrollY": 1879,
         "zoom": 108,
         "sgbEnabled": false,
         "customHead": "",
@@ -119465,7 +119474,7 @@
         "customControlsSelect": [
             "Shift"
         ],
-        "debuggerEnabled": false,
+        "debuggerEnabled": true,
         "debuggerScriptType": "editor",
         "debuggerVariablesFilter": "all",
         "debuggerCollapsedPanes": [],
