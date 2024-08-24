@@ -1,8 +1,8 @@
 // if for "has all flags"
 
-export const id = 'DK_IF_FLAGS_HAS_ALL'
+export const id = 'DK_IF_FLAGS_HAS_ANY'
 
-export const name = 'If Variable Has All Flags'
+export const name = 'If Variable Has Any Flags'
 
 export const groups = ['EVENT_GROUP_CONTROL_FLOW']
 
@@ -38,7 +38,7 @@ export const autoLabel = (fetchArg, input) => {
     .filter((i) => i)
     .join(',')
 
-  return `If ${fetchArg('variable')} has all flags ${flags}`
+  return `If ${fetchArg('variable')} has any flags ${flags}`
 }
 
 export const fields = [].concat(
@@ -129,5 +129,5 @@ export const compile = (input, helpers) => {
   if (input.flag15) flag |= 0x4000
   if (input.flag16) flag |= 0x8000
 
-  ifVariableBitwiseValue(input.variable, '.B_AND', flag, truePath, falsePath)
+  ifVariableBitwiseValue(input.variable, '.B_OR', flag, truePath, falsePath)
 }

@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "map_ice1.tmj",
     "expandedProjectPaths": [
         "."
     ],
@@ -56,8 +56,8 @@
             "scale": 0.9079427083333332,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 519.305894163201,
-                "y": 411.9202638749462
+                "x": 519.8565897031407,
+                "y": 411.3695683350065
             }
         },
         "map_forest_church.tmj": {
@@ -86,16 +86,16 @@
             "scale": 2.2889062499999997,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 163.17837395044035,
-                "y": 115.7758208751451
+                "x": 163.39681889548777,
+                "y": 115.99426582019251
             }
         },
         "map_ice1.tmj": {
             "scale": 1.0778,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 269.5305251438115,
-                "y": 288.55075153089626
+                "x": 240.30432362219332,
+                "y": 239.3765077008722
             }
         },
         "map_ice2.tmj": {
@@ -160,22 +160,20 @@
     "map.tileWidth": 16,
     "map.width": 4,
     "openFiles": [
-        "TilesetGraveyard.tsj",
-        "map_holy_graveyard.tmj",
-        "map_forest.tmj"
+        "map_ice1.tmj"
     ],
     "project": "friendstar.tiled-project",
     "recentFiles": [
+        "map_ice1.tmj",
         "TilesetGraveyard.tsj",
-        "map_forest.tmj",
         "map_holy_graveyard.tmj",
+        "map_forest.tmj",
         "map_ice3.tmj",
         "map_ice2.tmj",
         "map_ice_church.tmj",
         "map_ice_village.tmj",
         "map_desert_village.tmj",
         "map_forest_church.tmj",
-        "map_ice1.tmj",
         "dungeons.tsj",
         "map_desert_underground.tmj"
     ],

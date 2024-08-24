@@ -131,15 +131,32 @@ Must have all the gods (every friend in game) and they will battle some big enem
 
 ### Alijah
 
+- No quest, just talk to them.
+- 20 friends to open door
+
 ### Bobby
+
+- No quest, just talk to them.
+- 20 friends to open door
 
 ### Charlie
 
+- No quest, just talk to them.
+- 20 friends to open door
+
 ### Steve
+
+- No quest, just talk to them.
+- 20 friends to open door
 
 ### Laura
 
+- No quest, just talk to them.
+- 20 friends to open door
+
 ### Anne
+
+- No quest, just talk to them.
 
 
 ## Holy
