@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "map_ice1.tmj",
+    "activeFile": "map_desert1.tmj",
     "expandedProjectPaths": [
         "."
     ],
@@ -19,7 +19,7 @@
         },
         "map_desert1.tmj": {
             "scale": 0.9079427083333332,
-            "selectedLayer": 0,
+            "selectedLayer": 4,
             "viewCenter": {
                 "x": 428.4411300731393,
                 "y": 383.8347913380181
@@ -160,11 +160,13 @@
     "map.tileWidth": 16,
     "map.width": 4,
     "openFiles": [
-        "map_ice1.tmj"
+        "map_ice1.tmj",
+        "map_desert1.tmj"
     ],
     "project": "friendstar.tiled-project",
     "recentFiles": [
         "map_ice1.tmj",
+        "map_desert1.tmj",
         "TilesetGraveyard.tsj",
         "map_holy_graveyard.tmj",
         "map_forest.tmj",
@@ -174,8 +176,7 @@
         "map_ice_village.tmj",
         "map_desert_village.tmj",
         "map_forest_church.tmj",
-        "dungeons.tsj",
-        "map_desert_underground.tmj"
+        "dungeons.tsj"
     ],
     "tileset.lastUsedFormat": "json",
     "tileset.tileSize": {
